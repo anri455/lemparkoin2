@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lemparkoin</string>
+
+    <string name="buttonLempar">Lemparkan Coin!</string>
+
+    <string name="buttonUlangi">Ulangi</string>
+
+    <string name="buttonKeluar">Keluar</string>
+</resources>
